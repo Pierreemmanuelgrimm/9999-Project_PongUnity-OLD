@@ -1,4 +1,0 @@
-sceneSetups:
-- path: C:/Users/Pierre-Emm/Google Drive/Coding/Unity/TestLighting/Assets/asd.unity
-  isLoaded: 1
-  isActive: 1
